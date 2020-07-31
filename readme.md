@@ -15,7 +15,7 @@ Details :-
 2. Two APIs :-.
    i) localhost/members - to fetch details of all the members. 
    ii) localhost/activity_periods - to fetch all the stored activity_periods (ReadOnly API).
-3. API "localhost/members/<int>" fetches details of members with "id" = <int>.
+3. API "localhost/members/1" fetches details of members with "id" = 1.
 4. API "localhost/members/?real_name=ABC" fetches details of members with "real_name" = "ABC".
 5. API "localhost/activity_periods/?real_name=ABC" fetches all the activities of member with "real_name" = "ABC".
 
