@@ -18,3 +18,7 @@ Details :-
 3. API "localhost/members/<int>" fetches details of members with "id" = <int>.
 4. API "localhost/members/?real_name=ABC" fetches details of members with "real_name" = "ABC".
 5. API "localhost/activity_periods/?real_name=ABC" fetches all the activities of member with "real_name" = "ABC".
+
+Add Data:
+1. Script - "scripts/add_data" to add data from CSV file.
+ 
